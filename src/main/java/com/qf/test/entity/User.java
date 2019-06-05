@@ -28,4 +28,12 @@ public class User {
     public void setAge(int age) {
         this.age = age;
     }
+
+    public int getStuid() {
+        return stuid;
+    }
+
+    public void setStuid(int stuid) {
+        this.stuid = stuid;
+    }
 }
